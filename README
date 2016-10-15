@@ -1,1 +1,15 @@
 This is my Vim config.
+
+To use it yourself then git clone this into ~/
+
+Steps:
+
+  So
+      git clone https://github.com/ethson/vimconfig.git ~/.vim/
+   
+  Then
+      git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+    
+  Then run vim and use command :PluginInstall
+
+  Bone Apple Teeth
